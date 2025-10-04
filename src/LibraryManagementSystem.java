@@ -1,8 +1,6 @@
-package src;
-
 import java.util.*;
 
-public class LibraryManagement {
+public class LibraryManagementSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Library library = new Library();
